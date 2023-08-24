@@ -48,7 +48,7 @@ header nav ul{
 }
 
 header nav ul li{
-    display: inline-block;
+    display: inline-flex;
     color: #fff;
     font-size: 0.8em;
     align-items: center;
